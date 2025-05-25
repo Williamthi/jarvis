@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment config
+.env
+
+# Logs, data dumps
+*.log
+logs/
+data/
+
+# Docker
+*.pid
+*.sock
+*.db
+docker/db/
+docker/data/
+
+# System
+.DS_Store
